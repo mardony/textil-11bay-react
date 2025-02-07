@@ -5,7 +5,7 @@ function App() {
   return(
     <div>
       <Navbar />
-      <ItemListContainer />
+      <ItemListContainer message="Bienvenido a Textil Oncebay, descubre nuestros tapices artesanales" />
     </div>
   );
 }
